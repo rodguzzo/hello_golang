@@ -6,4 +6,5 @@ import "fmt"
 
 func main() {
 	fmt.Println("Hello, golang world")
+	fmt.Println("committed another line")
 }
