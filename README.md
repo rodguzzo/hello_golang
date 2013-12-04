@@ -1,4 +1,5 @@
-Try Go Hello, world using GitHub for Windows
+Golang Hello, world 
+using GitHub for Windows
 ============
 
 getting started golang
